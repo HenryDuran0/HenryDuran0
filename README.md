@@ -9,9 +9,33 @@
 <hr>
 
 <h2>Skills</h2>
+
+&nbsp;&nbsp;
+<h3>Languagues</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,java,dart" />
 </p>
 
+&nbsp;&nbsp;
+<h3>Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,react,nextjs,flutter," />
+</p>
+
+&nbsp;&nbsp;
+<h3>Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres" />
+</p>
+
+&nbsp;&nbsp;
+<h3>Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma," />
+</p>
+
+&nbsp;&nbsp;
+<h3>Hosting</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=heroku,railway,render" />
+</p>
