@@ -44,5 +44,5 @@
 
 #### **Tools & Others**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,heroku" />
 </p>
