@@ -18,24 +18,12 @@
 
 &nbsp;&nbsp;
 <h3>Frameworks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,nextjs,flutter," />
-</p>
+<img src="https://skillicons.dev/icons?i=django,react,nextjs,flutter" />
 
 &nbsp;&nbsp;
 <h3>Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
 
 &nbsp;&nbsp;
 <h3>Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma," />
-</p>
-
-&nbsp;&nbsp;
-<h3>Hosting</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=heroku,railway,render" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,figma," />
