@@ -12,9 +12,7 @@
 
 &nbsp;&nbsp;
 <h3>Languagues</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,java,dart" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,java,dart" />
 
 &nbsp;&nbsp;
 <h3>Frameworks</h3>
