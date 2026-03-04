@@ -17,6 +17,14 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- https://raicesaurea.com
+- https://henryduran0.github.io/Perfil-profesional/
+- https://henryduran0.github.io/Proyecto-Final-Frontend/
+
+---
+
 ### 🛠️ Skills
 
 #### **Languages**
@@ -38,9 +46,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
 </p>
-
-### 🚀 Featured Projects
-
-- https://raicesaurea.com
-- https://henryduran0.github.io/Perfil-profesional/
-- https://henryduran0.github.io/Proyecto-Final-Frontend/
